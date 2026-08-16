@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gauravgardade7-rgb.github.io/Graphics-Studio/sitemap.xml
